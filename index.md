@@ -8,3 +8,5 @@ Site created for all course projects of the Coursera course [HTML, CSS, and Java
 
 [module3-solution](https://jaime-geom.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module3-solution/)
 
+[module4-solution](https://jaime-geom.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/)
+
